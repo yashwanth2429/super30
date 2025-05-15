@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 this is my feature branch work.
 =======
 do enter the tab
